@@ -1,4 +1,4 @@
-<h1 align="center">Andrew here!</h1>
+<h1 align="center">Hi I'm Andrew!</h1>
 
 # About Me:
 I am a software engineer & game developer, specializing in AI systems, full-stack development, and immersive game worlds. I graduated from Sheridan College Software Engineering & Game Development program in 2024. I am currently in my 4th year at York University Computer Science.
@@ -28,4 +28,3 @@ Languages:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Unity](https://img.shields.io/badge/Unity-2286F3?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-2286F3?style=for-the-badge&logo=unreal-engine&logoColor=white)
-# andrewvu270
