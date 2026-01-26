@@ -1,7 +1,7 @@
 <h1 align="center">Hi I'm Andrew!</h1>
 
 # About Me:
-I am a software engineer & game developer, specializing in AI systems, full-stack development, and immersive game worlds. I graduated from Sheridan College Software Development & Network Engineering program in 2023. I am currently in my 4th year at York University Computer Science.
+I am a software engineer & game developer, specializing in full-stack development and immersive game worlds. I am currently exploring AI systems.
 
 Check out my [Portfolio!](https://andrewvu270.github.io/)
 
