@@ -43,14 +43,7 @@ Check out my [Portfolio!](https://andrewvu270.github.io/)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-2286F3?style=for-the-badge&logo=unreal-engine&logoColor=white)
 
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=andrewvu270&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=andrewvu270&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewvu270&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=andrewvu270&limit=5&theme=outrun&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=andrewvu270&icon=0&color=5)](https://visitcount.itsvg.in)
