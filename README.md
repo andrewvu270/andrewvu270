@@ -40,7 +40,5 @@ Check out my [Portfolio!](https://andrewvu270.github.io/)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-2286F3?style=for-the-badge&logo=unreal-engine&logoColor=white)
 
 
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=andrewvu270&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=andrewvu270&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewvu270&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# Stats:
+![LeetCode Stats](https://leetcard.jacoblin.cool/andrewvu270?theme=light&font=Public%20Sans&ext=heatmap)
