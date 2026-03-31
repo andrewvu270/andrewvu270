@@ -1,5 +1,8 @@
 <h1 align="center">Hi I'm Andrew!</h1>
-![3D](./dog.gif)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andrewvu270/andrewvu270/main/dog.gif" width="400"/>
+</div>
 
 # About Me:
 I am a software engineer & game developer, specializing in full-stack development and immersive game worlds. I am currently exploring AI systems.
